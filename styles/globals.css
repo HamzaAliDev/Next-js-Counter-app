@@ -1,6 +1,7 @@
 html,
 body {
-  padding: 0;
+  padding-left: 0;
+  padding-right: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
@@ -9,6 +10,22 @@ body {
 a {
   color: inherit;
   text-decoration: none;
+}
+.imagesetting{
+  padding-top: 20px;
+
+}
+.timing{
+  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.name{
+  margin-left: 20px;
+}
+.backset{
+  background-image: url("/two.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
 }
 
 * {

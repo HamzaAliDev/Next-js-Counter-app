@@ -17,19 +17,14 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      {/* <Navbar />
+       <Navbar />
       <p>hellow this is main page</p>
       <Link href="/About">About </Link>
       <Link href="/Contact">Contact </Link>
       <Link href="/Skill">Skill </Link>
 
-      <Counter />
-      <div className="card">
-        <div className="card-body text-center">
-          
-        </div>
-      </div> */}
-      <COunter />
+      {/* <Counter /> */}
+      <COunter />      
     </div>
   )
 }
